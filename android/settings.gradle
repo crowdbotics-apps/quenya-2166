@@ -1,0 +1,3 @@
+rootProject.name = 'quenya_2166'
+
+include ':app'
